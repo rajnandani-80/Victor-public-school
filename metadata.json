@@ -1,0 +1,6 @@
+{
+  "name": "Aldenmere Academy",
+  "description": "Institutional website for Aldenmere Academy featuring admissions timelines and tuition estimator, distinguished faculty profiles, broadsheet news feed, and campus inquiry portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
